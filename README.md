@@ -1,2 +1,2 @@
 ## [prasadmjadhav.github.io](https://prasadmjadhav6959.github.io/prasadmjadhav/)
-This is the AI|ML|DL|DA portfolio of Prasad Jadhav
+This is the Data Analyst & Machine Learning portfolio of Prasad Jadhav
